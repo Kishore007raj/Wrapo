@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+tempCodeRunnerFile.py
+
+page.png
+sample.env
+chromedriver.exe
